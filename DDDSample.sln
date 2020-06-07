@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DDDSample.DomainModel", "DD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DDDSampleTest.Test", "DDDSampleTest.Test\DDDSampleTest.Test.csproj", "{CD017828-8C2C-4AAA-B9B3-F6574DA9766B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DDDSample.Infrastructure", "DDDSample.Infrastructure\DDDSample.Infrastructure.csproj", "{E1A8AB4F-3698-4E96-A323-0B6E22DE7ECD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -44,5 +46,17 @@ Global
 		{CD017828-8C2C-4AAA-B9B3-F6574DA9766B}.Release|x64.Build.0 = Release|Any CPU
 		{CD017828-8C2C-4AAA-B9B3-F6574DA9766B}.Release|x86.ActiveCfg = Release|Any CPU
 		{CD017828-8C2C-4AAA-B9B3-F6574DA9766B}.Release|x86.Build.0 = Release|Any CPU
+		{E1A8AB4F-3698-4E96-A323-0B6E22DE7ECD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1A8AB4F-3698-4E96-A323-0B6E22DE7ECD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1A8AB4F-3698-4E96-A323-0B6E22DE7ECD}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{E1A8AB4F-3698-4E96-A323-0B6E22DE7ECD}.Debug|x64.Build.0 = Debug|Any CPU
+		{E1A8AB4F-3698-4E96-A323-0B6E22DE7ECD}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{E1A8AB4F-3698-4E96-A323-0B6E22DE7ECD}.Debug|x86.Build.0 = Debug|Any CPU
+		{E1A8AB4F-3698-4E96-A323-0B6E22DE7ECD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1A8AB4F-3698-4E96-A323-0B6E22DE7ECD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1A8AB4F-3698-4E96-A323-0B6E22DE7ECD}.Release|x64.ActiveCfg = Release|Any CPU
+		{E1A8AB4F-3698-4E96-A323-0B6E22DE7ECD}.Release|x64.Build.0 = Release|Any CPU
+		{E1A8AB4F-3698-4E96-A323-0B6E22DE7ECD}.Release|x86.ActiveCfg = Release|Any CPU
+		{E1A8AB4F-3698-4E96-A323-0B6E22DE7ECD}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
