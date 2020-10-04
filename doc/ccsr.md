@@ -1,6 +1,6 @@
 # ソースコード による仕様化
 
-![ccsr](./ccsr_copy.drawio.png)
+![ccsr](./img/ccsr_copy.drawio.png)
 
 ## 業務の関心
 
