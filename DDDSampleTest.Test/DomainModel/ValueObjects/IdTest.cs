@@ -26,6 +26,15 @@ namespace DDDSampleTest.Test.DomainModel.ValueObjects
         }
 
         [TestMethod]
+        public void NotEquals2Test()
+        {
+            var id1 = new Id("123");
+            var id2 = new Id("124");
+
+            (id1 != id2).IsTrue();
+        }
+
+        [TestMethod]
         public void ValidateTest()
         {
             try
